@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Space Grotesk", Arial, Helvetica, sans-serif;
+    background-color: #fffad1;
+    color: #2c3e50;
+    padding: 40px 20px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 28px;
+    color: #1e293b;
+    margin-bottom: 60px;
+    text-transform: capitalize;
+    margin-top: 35px;
+}
+.estadisticas {
+    font-size: 25px;
+    font-weight: 600;
+    color: rgb(86, 131, 238);
+}
+
+.tarjeta {
+    background-color: #f8f4ea;
+    border: 1px solid #000000;
+    border-radius: 10px;
+    width: 100%;
+    max-width: 400px;
+    padding: 16px;
+    margin: 30px auto;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
