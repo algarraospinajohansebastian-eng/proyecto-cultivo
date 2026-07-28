@@ -1,4 +1,4 @@
-const BACKEND_URL = "https://TU-BACKEND.onrender.com"; // <- lo cambias en el paso 4, cuando tengas la URL real de Render
+const BACKEND_URL = "https://proyecto-cultivo.onrender.com";
 
 let temperatura_mostrar = document.getElementById("temperatura");
 let humedad_mostrar = document.getElementById("humedad");
